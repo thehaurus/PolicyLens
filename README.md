@@ -23,9 +23,9 @@ This system **automates the job of a policy advisor**, providing accurate, plain
 
 ## 📄 Sample Output
 
-![image alt]
+![image alt](https://github.com/imayushthakur/PolicyLens/blob/main/examples/Output/output_1_answer.PNG?raw=true)
 
-![image alt]
+![image alt](https://github.com/imayushthakur/PolicyLens/blob/main/examples/Output/output_2_personalized_tip.PNG?raw=true)
 
 ## 🎯 Use Cases
 
@@ -48,18 +48,8 @@ This system uses a **multi-agent architecture** built with LangGraph to simulate
 
 ---
 
-## 🖥️ Live Demo Interface (Streamlit)
-
-### 📤 Upload a real policy PDF
-
-### 💬 Ask your question:
-
-> _“What are Activities of Daily Living (ADL) Disabilities?”_
-
-### 👤 Customize profile:
-
-- Age: 45
-- Location: Rhode Island
-- Plan: Standard
-
----
+```bash
+git clone https://github.com/imayushthakur/PolicyLens.git
+cd PolicyLens
+pip install -r requirements.txt
+streamlit run streamlit_app.py
