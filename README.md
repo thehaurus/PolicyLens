@@ -19,9 +19,13 @@ This system **automates the job of a policy advisor**, providing accurate, plain
 
 ## 📄 Sample Input
 
-![image alt]
+![image alt](https://github.com/imayushthakur/PolicyLens/blob/main/examples/Input/Input.PNG?raw=true)
 
 ## 📄 Sample Output
+
+![image alt]
+
+![image alt]
 
 ## 🎯 Use Cases
 
