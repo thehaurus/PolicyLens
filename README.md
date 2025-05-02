@@ -54,6 +54,8 @@ cd PolicyLens
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 
+```
+
 💡 Let's collaborate! Reach out via email to discuss how I can help bring your ideas to life.
 
 📬 Contact Me 📧 Email: thehaurusai@gmail.com
